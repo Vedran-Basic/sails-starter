@@ -1,0 +1,19 @@
+{
+  "mainGaussBoxPath": "/Users/gauss/Desktop/MojiProjekti/dbSwitchGaussBox/mainGaussBox",
+  "apiName": "warehouseApi",
+  "testPath": "/Users/gauss/Desktop/MojiProjekti/coding starters/adonis/filesToCopy",
+  "replacementParams": {
+    "$apiNameWithoutSuffix$": "warehouse",
+    "$apiNameWithSuffix$": "warehouseApi",
+    "$entityGroupCamelCase$": "assets",
+    "$entityGroupPascalCase$": "Assets",
+    "$entityCamelCase$": "assetLabel",
+    "$entitySnakeCase$": "asset_label",
+    "$entityPascalCase$": "AssetLabel",
+    "$entityPascalCasePlural$": "AssetLabels",
+    "$entityLowerCaseSpaceSeparated$": "asset label",
+    "$entityLowerCaseSpaceSeparatedPlural$": "asset labels",
+    "$entityPascalCaseList$": "",
+    "$tableName$": "ware_asset_labels"
+  }
+}
